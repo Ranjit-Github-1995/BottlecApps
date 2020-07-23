@@ -1,0 +1,794 @@
+@media only screen and (min-width:2048px){
+    
+    
+}
+
+@media only screen and (min-width:1600px) and (max-width:2047px){
+    
+    
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px){
+    
+    
+}
+
+@media only screen and (min-width:1151px) and (max-width:1245px){
+    
+    
+}
+
+@media only screen and (min-width:960px) and (max-width:1169px){
+    /*** top banner sec start ***/
+    
+    .top_banner .banner_cap .serch_out_area{
+        width: 85%;
+    }
+    .app{
+        width: 30.3%;
+    }
+    .scroll{
+        margin-top: 9%;
+    }
+    
+    /*** top banner sec start ***/
+    
+    /*** our city sec start ***/
+    
+    .city .san .oplay_text{
+        width: 84%;
+    }
+    
+    /*** our city sec end ***/
+    
+    /*** business sec start ***/
+    
+    .business{
+        padding-top: 140px;
+    }
+    
+    /*** business sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer .logo_news p{
+        padding: 15px 0 0px 50px;
+    }
+    footer .footer_menu ul li{
+        padding: 0 5px;
+    }
+    footer .footer_menu p{
+        padding: 0px;
+    }
+    /*** footer sec end ***/
+}
+
+@media only screen and (min-width:769px) and (max-width:959px){
+    
+    /*** top banner sec start ***/
+    .top_banner .banner_cap{
+        padding-top: 120px;
+    }
+    .top_banner .banner_cap h1{
+        font-size: 43px;
+    }
+    .top_banner .banner_cap p{
+        width: 80%;
+    }
+    .top_banner .banner_cap .serch_out_area input[type="text"]{
+        width: 83.3%;
+    }
+    .top_banner .banner_cap .serch_out_area{
+        width: 85%;
+    }
+    .app{
+        width: 38.3%;
+    }
+    .scroll{
+        margin-top: 16%;
+    }
+    
+    /*** top banner sec start ***/
+    
+    /*** our city sec start ***/
+    
+    .city .san .oplay_text{
+        width: 80%;
+    }
+    .city h4{
+        padding-bottom: 18px;
+    }
+    .city h3{
+        padding-bottom: 35px;
+    }
+    .city .san h6{
+        font-size: 20px;
+    }
+    /*** our city sec end ***/
+    
+    /*** business sec start ***/
+    
+    .business{
+        padding-top: 80px;
+    }
+   .business img.wisky {
+	padding-bottom: 50px;
+	margin: 0px auto;
+	display: block;
+    }
+    .business h4{
+        padding: 30px 0;
+    }
+    .business p{
+        width: 87%;
+        padding-bottom: 30px;
+    }
+    .business input[type="search"]{
+        width: 70%;
+    }
+    .business h5{
+        padding-top: 70px;
+    }
+   
+    .business img{
+        margin: 0px auto;
+        display: block;
+    }
+    .business .app_download a{
+        float: left;
+        padding-bottom: 30px;
+    }
+    /*** business sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer .logo_news img{
+        width: 100%;
+    }
+    footer .logo_news p{
+        padding: 15px 0 0px 0px;
+        font-size: 13px;
+    }
+    footer .footer_menu ul li{
+        padding: 0 5px;
+    }
+    footer .footer_menu p{
+        padding: 0px;
+    }
+    footer .footer_menu ul li{
+        padding: 0 10px;
+    }
+    footer .footer_menu ul li a{
+        font-size: 12px;
+    }
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (min-width: 641px) and (max-width: 768px){
+        
+    /*** top banner sec start ***/
+    
+    .top_banner .logo img{
+        margin: 0px auto;
+        display: block;
+    }
+    .top_banner .sign{
+        float: none;
+        text-align: center;
+    }
+    .top_banner .banner_cap{
+        padding-top: 70px;
+    }
+    .top_banner .banner_cap h1{
+        font-size: 35px;
+    }
+    .top_banner .banner_cap p{
+        width: 80%;
+    }
+    .top_banner .banner_cap .serch_out_area input[type="text"]{
+        width: 78.3%;
+    }
+    .top_banner .banner_cap .serch_out_area{
+        width: 85%;
+    }
+    .app{
+        width: 46%;
+    }
+    .scroll{
+        margin-top: 16%;
+    }
+    
+    /*** top banner sec start ***/
+    
+    /*** our city sec start ***/
+    
+    .city .san .image_change{
+        height: 230px;
+    }
+    .city .san .oplay_text{
+        width: 92%;
+        height: 92%;
+    }
+    .city h4{
+        padding-bottom: 18px;
+    }
+    .city h3{
+        padding-bottom: 28px;
+        font-size: 35px;
+    }
+    .city .san h6{
+        font-size: 20px;
+    }
+    /*** our city sec end ***/
+    
+    /*** business sec start ***/
+    
+    .business{
+        padding-top: 80px;
+    }
+   .business img.wisky {
+	padding-bottom: 40px;
+	margin: 0px auto;
+	display: block;
+    }
+    .business h4{
+        padding: 30px 0;
+    }
+    .business p{
+        width: 87%;
+        padding-bottom: 30px;
+    }
+    .business input[type="search"]{
+        width: 70%;
+    }
+    .business h5{
+        padding-top: 50px;
+    }
+   
+    .business img{
+        margin: 0px auto;
+        display: block;
+    }
+    .business .app_download a{
+        float: left;
+        padding-bottom: 30px;
+    }
+    /*** business sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer .logo_news img{
+        width: auto;
+        margin: 0px auto;
+        display: block;
+        padding-bottom: 30px;
+    }
+    footer .logo_news p{
+        padding: 15px 0 0px 30px;
+        font-size: 13px;
+    }
+    footer .footer_menu{
+        padding: 40px 0;
+    }
+    footer .footer_menu ul li{
+        padding: 0 5px;
+    }
+    footer .footer_menu p{
+        padding: 0px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    footer .footer_menu ul li {
+	padding: 0 10px;
+	width: 25%;
+	text-align: center;
+    }
+    footer .footer_menu ul li a{
+        font-size: 12px;
+    }
+    
+    /*** footer sec end ***/
+}
+
+@media only screen and (min-width: 481px) and (max-width: 640px){
+    
+        /*** top banner sec start ***/
+    
+    .top_banner .logo img{
+        margin: 0px auto;
+        display: block;
+    }
+    .top_banner .sign{
+        float: none;
+        text-align: center;
+    }
+    .top_banner .banner_cap{
+        padding-top: 50px;
+    }
+    .top_banner .banner_cap h1{
+        font-size: 35px;
+    }
+    .top_banner .banner_cap p{
+        width: 90%;
+    }
+    .top_banner .banner_cap .serch_out_area input[type="text"]{
+        width: 76.4%;
+    }
+    .top_banner .banner_cap .serch_out_area{
+        width: 95%;
+    }
+    .app{
+        width: 63%;
+    }
+    .scroll{
+        margin-top: 10%;
+    }
+    
+    /*** top banner sec start ***/
+    
+    /*** our city sec start ***/
+    
+    .city{
+        padding-top: 35px;
+    }
+    .city .san .image_change{
+        height: 230px;
+    }
+    .city .san .oplay_text{
+        width: 89%;
+        height: 92%;
+    }
+    .city h4{
+        padding-bottom: 15px;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .city h3{
+        padding-bottom: 15px;
+        font-size: 33px;
+    }
+    .city .san h6{
+        font-size: 20px;
+    }
+    /*** our city sec end ***/
+    
+    /*** business sec start ***/
+    
+    .business{
+        padding-top: 40px;
+    }
+   .business img.wisky {
+	padding-bottom: 25px;
+	margin: 0px auto;
+	display: block;
+    }
+    .business h4{
+        padding: 20px 0;
+        font-size: 33px;
+    }
+    .business p{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .business p.cilent{
+        padding-bottom: 20px;
+    }
+    .business input[type="search"]{
+        width: 73.8%;
+    }
+    .business h5{
+        padding: 20px 0;
+    }
+    .business p.download{
+        padding-bottom: 20px;
+        font-size: 28px;
+    }
+    .business img{
+        margin: 0px auto;
+        display: block;
+    }
+    .business .app_download a{
+        float: left;
+        padding-bottom: 30px;
+    }
+    /*** business sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer .logo_news img{
+        width: auto;
+        margin: 0px auto;
+        display: block;
+        padding-bottom: 30px;
+    }
+    footer .logo_news p{
+        padding-top: 15px;
+        font-size: 13px;
+        text-align: center;
+        float: none;
+        padding-left: 0px;
+    }
+    footer .logo_news input[type="email"]{
+        float: left;
+        margin-right: 15px;
+        width: 74%;
+    }
+    footer .footer_menu{
+        padding: 40px 0;
+    }
+    footer .footer_menu p{
+        padding: 0px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    footer .footer_menu ul li {
+	padding: 0 10px;
+	text-align: center;
+    }
+    footer .footer_menu ul li a{
+        font-size: 12px;
+    }
+    
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (min-width: 321px) and (max-width: 480px){
+    
+    /*** top banner sec start ***/
+    
+    .top_banner .logo{
+        padding-top: 25px;
+    }
+    .top_banner .sign button.sign_up{
+        margin-top: 20px;
+    }
+    .top_banner .sign button.login{
+        margin-top: 20px;
+    }
+    .top_banner .logo img{
+        margin: 0px auto;
+        display: block;
+    }
+    .top_banner .sign{
+        float: none;
+        text-align: center;
+    }
+    .top_banner .banner_cap{
+        padding-top: 20px;
+    }
+    .top_banner .banner_cap h1{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .top_banner .banner_cap p{
+        width: 94%;
+    }
+    .top_banner .banner_cap .serch_out_area input[type="text"]{
+        width: 65.2%;
+    }
+    .top_banner .banner_cap .serch_out_area{
+        width: 100%;
+    }
+    .app{
+        width: 97%;
+    }
+    .scroll{
+        margin-top: 32%;
+    }
+    
+    /*** top banner sec start ***/
+    
+    /*** our city sec start ***/
+    
+    .city{
+        padding-top: 35px;
+    }
+    .city .san .image_change{
+        height: 230px;
+    }
+    .city .san .oplay_text{
+        width: 84%;
+        height: 92%;
+    }
+    .city h4{
+        padding-bottom: 15px;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .city h3{
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+    .city .san h6{
+        font-size: 20px;
+    }
+    /*** our city sec end ***/
+    
+    /*** business sec start ***/
+    
+    .business{
+        padding-top: 40px;
+    }
+   .business img.wisky {
+	padding-bottom: 25px;
+	margin: 0px auto;
+	display: block;
+    width: 100%;
+    }
+    .business h4{
+        padding: 20px 0;
+        font-size: 22px;
+    }
+    .business p{
+        width: 100%;
+        padding-bottom: 20px;
+        font-size: 14px;
+    }
+    .business p.cilent{
+        padding-bottom: 20px;
+    }
+    .business input[type="search"]{
+        width: 100%;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    .business input[type="submit"]{
+        margin: 0px auto;
+        float: none;
+        display: block;
+    }
+    .business h5{
+        padding: 20px 0;
+        font-size: 23px;
+    }
+    .business p.download{
+        padding-bottom: 20px;
+        font-size: 20px;
+    }
+    .business img{
+        margin: 0px auto;
+        display: block;
+    }
+    .business .app_download a{
+        float: left;
+        padding-bottom: 30px;
+        width: 50%;
+    }
+    .business .app_download img{
+        width: 100%;
+    }
+    .business .app_download a:last-child img{
+        padding-right: 0px;
+    }
+    /*** business sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer .logo_news{
+        padding-top: 30px;
+    }
+    footer .logo_news img{
+        width: auto;
+        margin: 0px auto;
+        display: block;
+        padding-bottom: 30px;
+    }
+    footer .logo_news p{
+        padding-top: 15px;
+        font-size: 13px;
+        text-align: center;
+        float: none;
+        padding-left: 0px;
+    }
+    footer .logo_news input[type="email"]{
+        float: left;
+        margin-right: 0px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    footer .logo_news input[type="submit"]{
+        margin: 0px auto;
+        display: block;
+    }
+    footer .footer_menu{
+        padding: 20px 0;
+    }
+    footer .footer_menu p{
+        padding: 0px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    footer .footer_menu ul li {
+	padding: 0px;
+	text-align: center;
+    float: none;
+    }
+    footer .footer_menu ul li a{
+        font-size: 12px;
+    }
+    
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (max-width: 320px){
+    
+        /*** top banner sec start ***/
+    
+    .top_banner .logo{
+        padding-top: 25px;
+    }
+    .top_banner .sign button.sign_up{
+        margin-top: 20px;
+    }
+    .top_banner .sign button.login{
+        margin-top: 20px;
+    }
+    .top_banner .logo img{
+        margin: 0px auto;
+        display: block;
+    }
+    .top_banner .sign{
+        float: none;
+        text-align: center;
+    }
+    .top_banner .banner_cap{
+        padding-top: 20px;
+    }
+    .top_banner .banner_cap h1{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .top_banner .banner_cap p{
+        width: 94%;
+    }
+    .top_banner .banner_cap .serch_out_area input[type="text"]{
+        width: 68.9%;
+        margin:  11px 0 11px 11px;
+    }
+    .top_banner .banner_cap .serch_out_area{
+        width: 100%;
+    }
+    .app{
+        width: 97%;
+    }
+    .scroll{
+        margin-top: 32%;
+    }
+    
+    /*** top banner sec start ***/
+    
+    /*** our city sec start ***/
+    
+    .city{
+        padding-top: 35px;
+    }
+    .city .san .image_change{
+        height: 230px;
+    }
+    .city .san .oplay_text{
+        width: 84%;
+        height: 92%;
+    }
+    .city h4{
+        padding-bottom: 15px;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .city h3{
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+    .city .san h6{
+        font-size: 20px;
+    }
+    /*** our city sec end ***/
+    
+    /*** business sec start ***/
+    
+    .business{
+        padding-top: 40px;
+    }
+   .business img.wisky {
+	padding-bottom: 25px;
+	margin: 0px auto;
+	display: block;
+    width: 100%;
+    }
+    .business h4{
+        padding: 20px 0;
+        font-size: 22px;
+    }
+    .business p{
+        width: 100%;
+        padding-bottom: 20px;
+        font-size: 14px;
+    }
+    .business p.cilent{
+        padding-bottom: 20px;
+    }
+    .business input[type="search"]{
+        width: 100%;
+        margin-bottom: 10px;
+        margin-right: 0px;
+    }
+    .business input[type="submit"]{
+        float: none;
+        display: block;
+        margin: 0px auto;
+    }
+    .business h5{
+        padding: 20px 0;
+        font-size: 23px;
+    }
+    .business p.download{
+        padding-bottom: 20px;
+        font-size: 20px;
+    }
+    .business img{
+        margin: 0px auto;
+        display: block;
+    }
+    .business .app_download a{
+        float: left;
+        padding-bottom: 30px;
+        width: 50%;
+    }
+    .business .app_download img{
+        width: 100%;
+    }
+    .business .app_download a:last-child img{
+        padding-right: 0px;
+    }
+    /*** business sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer .logo_news{
+        padding-top: 30px;
+    }
+    footer .logo_news img{
+        width: auto;
+        margin: 0px auto;
+        display: block;
+        padding-bottom: 30px;
+    }
+    footer .logo_news p{
+        padding-top: 15px;
+        font-size: 13px;
+        text-align: center;
+        float: none;
+        padding-left: 0px;
+    }
+    footer .logo_news input[type="email"]{
+        float: left;
+        margin-right: 0px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    footer .logo_news input[type="submit"]{
+        margin: 0px auto;
+        display: block;
+    }
+    footer .footer_menu{
+        padding: 20px 0;
+    }
+    footer .footer_menu p{
+        padding: 0px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    footer .footer_menu ul li {
+	padding: 0px;
+	text-align: center;
+    float: none;
+    }
+    footer .footer_menu ul li a{
+        font-size: 12px;
+    }
+    
+    /*** footer sec end ***/
+    
+}
